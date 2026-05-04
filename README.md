@@ -204,7 +204,7 @@ The dual-supply architecture ensures that the isolation barrier of the AMC1200 i
 
 ## Bill of Materials
 
-See [`hardware/bom`](hardware/bom/pe project.pdf) for the complete BOM.
+See [`hardware/BOM`](hardware/BOM/BOM.pdf) for the complete BOM.
 
 ---
 
